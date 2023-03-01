@@ -1,5 +1,5 @@
 //COMENTARIOS Y PRIMER HOLA MUNDO
-void main(List<String> args) {
+void main() {
   print('Hola mundo');
 }
 // print, imprime texto en pantalla.
